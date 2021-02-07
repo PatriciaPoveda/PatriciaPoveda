@@ -1,7 +1,28 @@
 <h1 align="center">Hi 👋, I'm Patricia</h1>
 <h3 align="center">A passionate frontend developer from Madrid, Spain</h3>
 
-- 🌱 I’m currently learning **Vue.js**
+<h4 align="center">Cada mujer es una historia que no se parece a
+ninguna otra.
+¿Y cuál es mi historia? ¿Cómo acabé siendo
+programadora front-end? Desde pequeña
+siempre me gustaron los ordenadores pero nunca
+me ofrecieron la posibilidad de desarrollarlo como
+una profesión.
+Estudie Filología clásica y me dediqué a la docencia
+con pasión pero no abandoné mi interés por
+las nuevas tecnologías.
+Un día, que podía haber sido como otro cualquiera
+pero que cambió mi vida, descubrí Adalab y supe
+que era lo que quería ser y a lo que me quería
+dedicar.
+Asumí el reto del cambio y con dedicación,
+esfuerzo y motivación, acabé siendo
+programadora front-end.</h4>
+
+<h3 align="center">Audentes fortuna iuvat</h3>
+
+
+- 🌱 I’m currently learning **Vue.js** and **Node.js**
 
 - 💬 Ask me about **HTML, CSS, SCSS, javaScript, React**
 
