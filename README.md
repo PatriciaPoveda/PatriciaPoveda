@@ -23,9 +23,9 @@ programadora front-end.</h4>
 
 
 
-- 🌱 Estoy estoy estudiando **Vue.js** and **Node.js**
+- 🌱 Estoy estoy estudiando **TypeScript** and **Node.js**
 
-- 💬 Te puedo hablar de **HTML, CSS, SCSS, javaScript, React**
+- 💬 Te puedo hablar de **HTML, CSS, SCSS, javaScript, React, Git, express, SQLite**
 
 - 📫 Puedes contactarme en **patriciapovedaboto@gmail.com**
 
